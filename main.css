@@ -1,0 +1,21 @@
+.container {
+    display: grid;  
+    grid-template-columns: 100px calc(75%/4) calc(75%/4) calc(75%/4) calc(75%/4) 12.5%;
+    grid-gap: 10px;
+}
+
+.red {
+    background-color: red;
+}
+
+.blue {
+    background-color: blue;
+}
+
+.green {
+    background-color: green;
+}
+
+.purple {
+    background-color: purple;
+}
