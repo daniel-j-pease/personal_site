@@ -9,7 +9,7 @@
     "balanced-match": "^1.0.0",
     "async": "^2.6.0",
     "buffer-crc32": "^0.2.13",
-    "bl": "^1.2.1",
+    "bl": "^2.2.1",
     "compress-commons": "^1.2.2",
     "brace-expansion": "^1.1.8",
     "crc": "^3.5.0",
